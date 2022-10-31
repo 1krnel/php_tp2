@@ -1,0 +1,4 @@
+INSERT INTO `usagers` (`username`, `password`, `prenom`, `nom`) VALUES ('yeat', 'twizzyrich123', 'Noah', 'Smith');
+INSERT INTO `usagers` (`username`, `password`, `prenom`, `nom`) VALUES ('summrs', 'birdbusiness123', 'Deante', 'Johnson');
+INSERT INTO `articles` (`id`, `idAuteur`, `titre`, `texte`) VALUES ('1', 'summrs', 'Who is Summrs?', 'Summrs, whose real name is Deante Adam Johnson, is an exciting emerging recording melodic rap artist from Lafayette, Louisiana.');
+INSERT INTO `articles` (`id`, `idAuteur`, `titre`, `texte`) VALUES ('2', 'yeat', 'Who is yeat?', 'Noah Olivier Smith (born February 26, 2000), known professionally as Yeat (occasionally stylized as YËAT /ˈjiːt/ YEET), is an American rapper, singer, songwriter and music producer.');
